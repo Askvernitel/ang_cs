@@ -66,3 +66,20 @@ E:\IBSU\Gits for IBSU\login and register\BS---Project\Project-API\Database\obj\D
 E:\IBSU\Gits for IBSU\login and register\BS---Project\Project-API\Database\obj\Debug\net6.0\Database.pdb
 E:\IBSU\Gits for IBSU\login and register\BS---Project\Project-API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
 E:\IBSU\Gits for IBSU\login and register\BS---Project\Project-API\Database\obj\Debug\net6.0\ref\Database.dll
+C:\angular123\something\Reg-component\Project-API\Database\bin\Debug\net6.0\Database.deps.json
+C:\angular123\something\Reg-component\Project-API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\angular123\something\Reg-component\Project-API\Database\bin\Debug\net6.0\Database.dll
+C:\angular123\something\Reg-component\Project-API\Database\bin\Debug\net6.0\Database.pdb
+C:\angular123\something\Reg-component\Project-API\Database\bin\Debug\net6.0\Business.dll
+C:\angular123\something\Reg-component\Project-API\Database\bin\Debug\net6.0\Business.pdb
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.dll
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\refint\Database.dll
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.pdb
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\angular123\something\Reg-component\Project-API\Database\obj\Debug\net6.0\ref\Database.dll

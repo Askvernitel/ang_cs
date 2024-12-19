@@ -6141,46 +6141,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\IBSU\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Schedule\\Schedule.csproj",
+      "projectUniqueName": "C:\\angular123\\something\\Reg-component\\Project-API\\Schedule\\Schedule.csproj",
       "projectName": "Schedule",
-      "projectPath": "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Schedule\\Schedule.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Schedule\\obj\\",
+      "projectPath": "C:\\angular123\\something\\Reg-component\\Project-API\\Schedule\\Schedule.csproj",
+      "packagesPath": "C:\\Users\\IBSU\\.nuget\\packages\\",
+      "outputPath": "C:\\angular123\\something\\Reg-component\\Project-API\\Schedule\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\IBSU\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Application\\Application.csproj": {
-              "projectPath": "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Application\\Application.csproj"
+            "C:\\angular123\\something\\Reg-component\\Project-API\\Application\\Application.csproj": {
+              "projectPath": "C:\\angular123\\something\\Reg-component\\Project-API\\Application\\Application.csproj"
             },
-            "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Business\\Business.csproj": {
-              "projectPath": "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Business\\Business.csproj"
+            "C:\\angular123\\something\\Reg-component\\Project-API\\Business\\Business.csproj": {
+              "projectPath": "C:\\angular123\\something\\Reg-component\\Project-API\\Business\\Business.csproj"
             },
-            "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Database\\Database.csproj": {
-              "projectPath": "E:\\IBSU\\Gits for IBSU\\login and register\\BS---Project\\Project-API\\Database\\Database.csproj"
+            "C:\\angular123\\something\\Reg-component\\Project-API\\Database\\Database.csproj": {
+              "projectPath": "C:\\angular123\\something\\Reg-component\\Project-API\\Database\\Database.csproj"
             }
           }
         }
@@ -6255,7 +6247,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
       }
     }
   }

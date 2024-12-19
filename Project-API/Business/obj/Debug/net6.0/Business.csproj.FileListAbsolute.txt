@@ -54,3 +54,17 @@ E:\IBSU\Gits for IBSU\login and register\BS---Project\Project-API\Business\obj\D
 E:\IBSU\Gits for IBSU\login and register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.pdb
 E:\IBSU\Gits for IBSU\login and register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
 E:\IBSU\Gits for IBSU\login and register\BS---Project\Project-API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\angular123\something\Reg-component\Project-API\Business\bin\Debug\net6.0\Business.deps.json
+C:\angular123\something\Reg-component\Project-API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\angular123\something\Reg-component\Project-API\Business\bin\Debug\net6.0\Business.dll
+C:\angular123\something\Reg-component\Project-API\Business\bin\Debug\net6.0\Business.pdb
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\Business.dll
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\Business.pdb
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\angular123\something\Reg-component\Project-API\Business\obj\Debug\net6.0\ref\Business.dll
